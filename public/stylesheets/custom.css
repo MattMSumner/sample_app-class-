@@ -1,9 +1,9 @@
 .container {
-  width: 710px;
+  width: 590px;
 }
 
 body {
-  background: #cff;
+  background: #FEE5AC;
 }
 
 header {
@@ -86,9 +86,9 @@ a.signup_button {
   margin-right: auto;
   display: block;
   text-align: center;
-  width: 190px;
+  width: 150px;
   color: #fff;
-  background: #006400;
+  background: #ad0;
   font-size: 150%;
   font-weight: bold;
   padding: 20px;
@@ -106,7 +106,7 @@ a.signup_button {
 footer {
   text-align: center;
   margin-top: 10px;
-  width: 710px;
+  width: 250px;
   margin-left: auto;
   margin-right: auto;
 }
